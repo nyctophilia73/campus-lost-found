@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "type": "lost",
+    "item_name": "Black Leather Wallet",
+    "category": "Wallet/Purse",
+    "description": "Black leather bifold wallet with slight wear on corners.",
+    "location": "Central Library, 2nd Floor Reading Hall",
+    "date": "2026-09-18",
+    "identifying_details": "Contains a College ID card, a metro smartcard, and a silver locker key.",
+    "student_name": "Rahul Sharma",
+    "contact": "rahul.sharma@college.edu",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "type": "found",
+    "item_name": "Blue Stainless Steel Water Bottle",
+    "category": "Accessories",
+    "description": "Milton 750ml blue metallic water bottle with a silver cap.",
+    "location": "Student Cafeteria, Table 14",
+    "date": "2026-09-19",
+    "identifying_details": "Has a NASA astronaut sticker on the side.",
+    "student_name": "Priya Nair",
+    "contact": "priya.nair@college.edu",
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "type": "lost",
+    "item_name": "Boat Wireless Earbuds",
+    "category": "Electronics",
+    "description": "Matte black charging case with Airdopes 141 earbuds inside.",
+    "location": "Computer Center Lab 3",
+    "date": "2026-09-19",
+    "identifying_details": "Case has a small green lanyard attached to the hinge.",
+    "student_name": "Aditya Verma",
+    "contact": "aditya.v@college.edu",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "type": "found",
+    "item_name": "Student ID Card",
+    "category": "ID Cards",
+    "description": "Official campus smart ID card in a blue transparent lanyard.",
+    "location": "Auditorium Main Entrance Stairs",
+    "date": "2026-09-20",
+    "identifying_details": "CSE Department, Roll No: 24CS108, Name initials: A.K.",
+    "student_name": "Karthik Raja",
+    "contact": "karthik.r@college.edu",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "type": "lost",
+    "item_name": "Spiral Data Structures Notebook",
+    "category": "Books",
+    "description": "Thick 200-page Classmate spiral notebook with handwritten DSA lecture notes.",
+    "location": "Mechanical Block, Room 204",
+    "date": "2026-09-17",
+    "identifying_details": "Cover has 'Semester 3 - DSA & SE' written with black marker.",
+    "student_name": "Sneha Gupta",
+    "contact": "sneha.gupta@college.edu",
+    "status": "Active"
+  },
+  {
+    "id": 6,
+    "type": "found",
+    "item_name": "Casio fx-991EX Scientific Calculator",
+    "category": "Electronics",
+    "description": "Black and white scientific calculator with sliding protective cover.",
+    "location": "Physics Lab, Workstation 6",
+    "date": "2026-09-15",
+    "identifying_details": "Engraved initials 'S.M.' on the back cover.",
+    "student_name": "Rohan Deshmukh",
+    "contact": "rohan.d@college.edu",
+    "status": "Resolved"
+  }
+]
